@@ -157,9 +157,14 @@ table {
 }
 .imgbox {
   display: inline-block;
-  border: solid 1px #ffffff;
-  border-radius: 0px;
-  width: 200px;
+  border: solid 10px #ffffff;
+  border-radius: 10px;
+  width: 182px;
   height: 200px;
-  margin: 11.5px
+  margin: 8px
+}
+
+img {
+  width: 100%;
+  height: 100%;
 }
