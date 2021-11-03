@@ -130,7 +130,7 @@ table {
 
 /* custom style */
 .gallerycontainer {
-  background: linear-gradient(90deg, rgb(212 139 253) 0%, rgb(186 214 255) 86%);
+  background: linear-gradient(90deg, rgb(106 82 205) 0%, rgb(98 149 223) 86%);
   height: 100vh;
   width: 100vw;
   min-width: 950px;
