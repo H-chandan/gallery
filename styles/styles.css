@@ -145,7 +145,7 @@ table {
 .title {
   text-align: center;
   font-size: 40px;
-  color: #b2792f;
+  color: #ffdaa9;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
 }
@@ -161,7 +161,8 @@ table {
   border-radius: 10px;
   width: 182px;
   height: 200px;
-  margin: 8px
+  margin: 8px;
+  box-shadow: 3px 6px 2px rgba(0, 0, 0, .3);
 }
 
 img {
