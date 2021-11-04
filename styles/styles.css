@@ -132,7 +132,7 @@ table {
 .gallerycontainer {
   background: linear-gradient(90deg, rgb(106 82 205) 0%, rgb(98 149 223) 86%);
   min-height: 100vh;
-  min-width: 490px;
+  min-width: 400px;
 }
 
 .gallery {
