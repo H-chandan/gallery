@@ -132,12 +132,11 @@ table {
 .gallerycontainer {
   background: linear-gradient(90deg, rgb(106 82 205) 0%, rgb(98 149 223) 86%);
   min-height: 100vh;
-  min-width: 400px;
 }
 
 .gallery {
   padding: 20px;
-  margin: auto 15%;
+  margin: auto 5%;
 }
 
 .title {
@@ -157,10 +156,11 @@ table {
   display: inline-block;
   border: solid 10px #ffffff;
   border-radius: 10px;
-  width: 264px;
-  height: 176px;
+  width: 355px;
+  height: 236px;
   margin: 8px;
   box-shadow: 3px 6px 2px rgba(0, 0, 0, .3);
+  max-width: 70vw;
 }
 
 img {
