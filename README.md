@@ -1,1 +1,1 @@
-# gallery - check out @  https://h-chandan.github.io/gallery/
+# gallery - check out @  https://harichandanmohanty.github.io/gallery/
